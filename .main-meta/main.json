@@ -1,0 +1,55 @@
+{
+    "metaDataVersion": "1.0.0",
+    "category": "com.microchip.ide.project",
+    "content": {
+        "metaDataVersion": "1.1.0",
+        "name": "com.microchip.mcu8.mplabx.project.pic18f47q10-cnano-spi-host-send-bare",
+        "version": " ",
+        "displayName": "PIC18F47Q10 cnano spi host send bare",
+        "projectName": "pic18f47q10-cnano-spi-host-send-bare",
+        "shortDescription": "This repository contains an example of bare metal source code for SPI that will be configured as host and it will be used to send data to two client devices one at a time",
+        "ide": {
+            "name": "MPLAB X",
+            "semverRange": ">=5.30.0"
+        },
+        "compiler": [
+            {
+                "name": "XC8",
+                "semverRange": "^2.10.0"
+            }
+        ],
+        "dfp": {
+            "name": "",
+            "semverRange": ""
+        },
+        "configurator": {
+            "name": "",
+            "semverRange": ""
+        },
+        "device": {
+            "metaDataVersion": "1.0.0",
+            "category": "com.microchip.portal.contentRef",
+            "content": {
+                "metaDataVersion": "1.0.0",
+                "category": "com.microchip.device",
+                "name": "PIC18F47Q10",
+                "versionRange": "*"
+            }
+        },
+        "author": "Prasad Aradhya",
+        "subcategories": [],
+        "peripherals": [],
+        "keywords": [],
+        "additionalData": {
+            "longDescription": {
+                "metaDataVersion": "1.0.0",
+                "category": "com.microchip.portal.fileRef",
+                "content": {
+                    "metaDataVersion": "1.0.0",
+                    "fileName": "./README.md",
+                    "mimeType": "text/markdown"
+                }
+            }
+        }
+    }
+}
