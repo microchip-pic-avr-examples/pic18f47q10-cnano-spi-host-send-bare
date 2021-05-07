@@ -4,7 +4,7 @@
 # Sending Data as a Host SPI Device with Multiple Clients
 
 ## Objective
-This repository contains an example of bare-metal source code for SPI as described in [*TB3265 - Getting Started with SPI using MSSP on PIC18*](http://ww1.microchip.com/downloads/en/DeviceDoc/Getting-Started-With-SPI-Using-MSSP-on-PIC18-DS90003265A.pdf) document from Microchip.
+This repository contains an example of bare-metal source code for SPI as described in [*TB3265 - Getting Started with SPI using MSSP on PIC18*](https://www.microchip.com/wwwappnotes/appnotes.aspx?appnote=en1002275) document from Microchip.
 <br>In this demo, the SPI will be configured as host and it will be used to send data to two client devices, one at a time.
 
 ## Related Documentation
